@@ -22,8 +22,8 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/@raphyleo22)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/raphealebinum)
 
 ## Stepping out the door
 
